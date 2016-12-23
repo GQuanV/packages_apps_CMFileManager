@@ -21,7 +21,6 @@
   <!-- The description of the app -->
   <string name="app_description">Файловый менеджер CyanogenMod</string>
   <!-- Human readable sizes -->
-  <string name="size_bytes">Б</string>
   <string name="size_kilobytes">КБ</string>
   <string name="size_megabytes">МБ</string>
   <string name="size_gigabytes">ГБ</string>
@@ -774,4 +773,6 @@
   <string name="storage_permissions_denied">Файловому менеджеру требуется разрешение на доступ к памяти устройства для просмотра ваших файлов.</string>
   <string name="storage_permissions_explanation">Перейдите в Настройки и нажмите «Разрешения», чтобы предоставить доступ.</string>
   <string name="snackbar_settings">Настройки</string>
+  <!-- Wrap mode - toast -->
+  <string name="toggle_word_wrap_msg">Режим переноса по словам изменён</string>
 </resources>
